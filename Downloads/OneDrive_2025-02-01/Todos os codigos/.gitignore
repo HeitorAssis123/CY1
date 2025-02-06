@@ -1,0 +1,10 @@
+# Ignorar arquivos do sistema e diretórios do usuário
+.bash_history
+.gitconfig
+.ipython/
+.jupyter/
+.lesshst
+.vscode/
+Desktop/
+Documents/
+Downloads/
